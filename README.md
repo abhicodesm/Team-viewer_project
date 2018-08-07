@@ -1,1 +1,2 @@
 # Team-viewer_project
+Team Viewer is a popular piece of software used for internet-based access and support .In this project a server PC can have a full control of its client systems.A manager has a list of IP addresses that are currently working, then selecting any IP address from table,the whole control is passed. It basically send the screen shots and the corresponding coordinates of mouse movement and clicking through sockets.
